@@ -28,13 +28,6 @@ Research Interests
 * Hallucination in Vision-Language Models (VLM)
 * LLM Truthfulness and Interpretability
 
-Skills
-======
-* Natural language processing and machine learning research
-* Large language model reasoning, alignment, and evaluation
-* Vision-language model understanding and chart reasoning
-* Research writing, experimentation, and reproducible paper development
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
